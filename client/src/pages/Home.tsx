@@ -27,9 +27,9 @@ export default function Home() {
               transition={{ duration: 1.1, ease: [0.2, 0.7, 0.2, 1] }}
               className="mt-8 text-5xl leading-[1.15] font-light md:text-7xl"
             >
-              من أعماق الخليج
+              حرفيةٌ إيطالية الروح
               <br />
-              <span className="font-extrabold text-primary">إلى معصمكِ</span>
+              <span className="font-extrabold text-primary">بلمسةٍ عربية</span>
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
